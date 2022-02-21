@@ -1,0 +1,50 @@
+body {
+  margin-left: 0;
+  text-align: center;
+}
+h1 {
+  color: #03045E;
+    font-family: Brush Script MT, sans-serif;
+  font-size: 80px;
+  margin-top: 0;
+}
+.top-container {
+  font-size: 30px;
+  background-color: #CAF0F8;
+  position:relative;
+  padding-top: 100px;
+
+}
+.middle-container{
+  background-color: #90E0EF;
+padding:10px;
+
+
+}
+.bottom-container{
+  background-color: #00B4D8;
+
+}
+.bottom-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.top-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.creative-mind{
+  width: 15%
+
+}
+.mind{
+  width: 15%
+
+
+}
+.chemical{
+  width: 15%
+}
